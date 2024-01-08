@@ -2,7 +2,7 @@
 
 - [ ] LEAN Canvas Book Proposal
 - [ ] Define Audiences
-- [ ] Create Github Repo
+- [x] Create Github Repo
 - [ ] Draft Outline
 - [ ] List of Books - Research
 - [ ] List of data problems & classification
