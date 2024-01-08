@@ -3,7 +3,7 @@
 - [ ] LEAN Canvas Book Proposal
 - [ ] Define Audiences
 - [x] Create Github Repo
-- [ ] Draft Outline
+- [x] Draft Outline
 - [ ] List of Books - Research
 - [ ] List of data problems & classification
 - [ ] List of data tools & classification
@@ -19,14 +19,14 @@
     - [ ] Old drive(s)
 - [ ] Github folder structure /
     - [ ] BOOK_PROPOSAL - LEAN canvas
-    - [ ] JOURNAL.md
+    - [x] JOURNAL.md
     - [ ] LICENSE (MIT or ?? non-commercial)
-    - [ ] README.md
+    - [x] README.md
     - [x] WRITING_PLAN.md (or TODO.md)
     - [ ] bin/
     - [ ] blog/
     - [ ] build/
-    - [ ] chapters/
+    - [x] chapters/
     - [ ] examples/
     - [ ] util/
 - [ ] 
