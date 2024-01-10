@@ -1,5 +1,6 @@
 # TODO
 
+- [x] Draft LEAN Canvas Book Proposal
 - [ ] LEAN Canvas Book Proposal
 - [ ] Define Audiences
 - [x] Create Github Repo
@@ -19,6 +20,7 @@
     - [ ] Old drive(s)
 - [ ] Github folder structure /
     - [ ] BOOK_PROPOSAL - LEAN canvas
+    - [ ] CONTRIBUTING.md - contribution guide
     - [x] JOURNAL.md
     - [ ] LICENSE (MIT or ?? non-commercial)
     - [x] README.md
@@ -29,5 +31,6 @@
     - [x] chapters/
     - [ ] examples/
     - [ ] util/
-- [ ] 
-    - [ ] 
+- [ ] Review all books
+    - [ ] Take Notes
+    - [ ] Organize book notes in outline
