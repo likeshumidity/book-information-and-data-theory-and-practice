@@ -17,16 +17,15 @@
     - [ ] Google Drive
     - [ ] iCloud
     - [ ] Recordings
-    - [ ] Old drive(s)
+    - [x] Old drive(s)
 - [ ] Github folder structure /
     - [ ] BOOK_PROPOSAL - LEAN canvas
-    - [ ] CONTRIBUTING.md - contribution guide
+    - [x] CONTRIBUTING.md - contribution guide
     - [x] JOURNAL.md
     - [ ] LICENSE (MIT or ?? non-commercial)
     - [x] README.md
     - [x] WRITING_PLAN.md (or TODO.md)
     - [ ] bin/
-    - [ ] blog/
     - [ ] build/
     - [x] chapters/
     - [ ] examples/
